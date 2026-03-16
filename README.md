@@ -24,7 +24,7 @@ Interactive web application for exploring NASA GRACE satellite gravity data.
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/yourusername/gravity-anomaly-map.git
+git clone https://github.com/Arap-Chesulut/gravity-anomaly-map.git
 cd gravity-anomaly-map
 npm install
 npm start# GRACE-gravity-anomaly-map
