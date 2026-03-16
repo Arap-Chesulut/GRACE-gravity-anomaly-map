@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GRACE-gravity-anomaly-map/static/css/main.3269fc55.css",
+    "main.js": "/GRACE-gravity-anomaly-map/static/js/main.5e8af65c.js",
+    "index.html": "/GRACE-gravity-anomaly-map/index.html",
+    "main.3269fc55.css.map": "/GRACE-gravity-anomaly-map/static/css/main.3269fc55.css.map",
+    "main.5e8af65c.js.map": "/GRACE-gravity-anomaly-map/static/js/main.5e8af65c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3269fc55.css",
+    "static/js/main.5e8af65c.js"
+  ]
+}
