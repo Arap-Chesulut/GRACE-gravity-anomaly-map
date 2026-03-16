@@ -3,7 +3,7 @@
 Interactive web application for exploring NASA GRACE satellite gravity data.
 
 ## 🔗 Live Demo
-[https://yourusername.github.io/gravity-anomaly-map](https://yourusername.github.io/gravity-anomaly-map)
+[https://Arap-Chesulut.github.io/GRACE-gravity-anomaly-map](https://Arap-Chesulut.github.io/GRACE-gravity-anomaly-map)
 
 ## ✨ Features
 - Interactive world map with gravity anomalies
